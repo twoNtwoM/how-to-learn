@@ -25,7 +25,7 @@
 }
 
 .logo_place_header {
-  background-image: url(/images/logo_place_header.svg);
+  background-image: url(/images/logo/logo_place_header.svg);
   position: absolute;
   top: 30px;
   left: 64px;
@@ -180,7 +180,7 @@
 
 .feynman {
   min-height: 890px;
-  background: no-repeat left bottom url('../images/feynman.png'), #F2F2F2;
+  background: no-repeat left bottom url('../images/feynman/feynman.png'), #F2F2F2;
   background-size: 867px 637px;
   display: flex;
   flex-direction: column;
@@ -236,7 +236,7 @@
 }
 
 .kaufman__triangle {
-  background-image: url(/images/kaufman-triangle.svg);
+  background-image: url(/images/kaufman/kaufman-triangle.svg);
   background-size: contain;
   display: flex;
   position: absolute;
@@ -310,7 +310,7 @@
 }
 
 .logo_place_footer {
-  background-image: url(/images/logo_place_footer.svg);
+  background-image: url(/images/logo/logo_place_footer.svg);
 }
 
 .footer__author {
