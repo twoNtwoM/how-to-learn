@@ -1,13 +1,3 @@
-@import url(__columns/footer__columns.css);
-@import url(__column/_content/footer__column_content_copyright.css);
-@import url(__column/_content/footer__column_content_info.css);
-@import url(__column/_content/footer__column_content_social.css);
-@import url(__author/footer__author.css);
-@import url(__column-icon/footer__column-icon.css);
-@import url(__column-heading/footer__column-heading.css);
-@import url(__column-links/footer__column-links.css);
-@import url(__column-link.css/footer__column-link.css);
-
 .footer {
   background-color: #1f1f1f;
   display: flex;
