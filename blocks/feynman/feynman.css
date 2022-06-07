@@ -1,6 +1,6 @@
 .feynman {
   min-height: 890px;
-  background: no-repeat left bottom url(/images/feynman/feynman.png), #F2F2F2;
+  background: no-repeat left bottom url(../../../images/feynman/feynman.png), #F2F2F2;
   background-size: 867px 637px;
   display: flex;
   flex-direction: column;
