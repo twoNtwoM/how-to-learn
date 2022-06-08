@@ -1,6 +1,9 @@
 .table__cell {
   display: flex;
+  /* код внизу: свойство column влият - удаление его из когда приводит к тому что сьезжает "heading" в таблце */
   flex-direction: column;
   width: 250px;
   margin-top: 60px;
+   /* код внизу: без индекса треугольник перекрывает текст */
+  z-index: 1;
 }

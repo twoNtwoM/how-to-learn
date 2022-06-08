@@ -37,7 +37,7 @@
 @import url(../blocks/footer/__author/footer__author.css);
 @import url(../blocks/footer/__column-heading/footer__column-heading.css);
 @import url(../blocks/footer/__column-icon/footer__column-icon.css);
-@import url(../blocks/footer/__column-link.css/footer__column-link.css);
+@import url(../blocks/footer/__column-link/footer__column-link.css);
 @import url(../blocks/footer/__column-links/footer__column-links.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 @import url(../blocks/footer/__column/_content/footer__column_content_info.css);
@@ -67,8 +67,8 @@
 
 /* link */
 /* logo */
-@import url(../blocks/logo/__place/logo__place_header.css);
-@import url(../blocks/logo/__place/logo__place_footer.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
+@import url(../blocks/logo/_place/logo_place_footer.css);
 
 /* oakley */
 /* page */
@@ -83,7 +83,7 @@
 @import url(../blocks/table/__cell/table__cell.css);
 @import url(../blocks/table/__heading/table__heading.css);
 @import url(../blocks/table/__text/table__text.css);
-@import url(../blocks/table/__cell/_theme/table__cell_-theme_dark.css);
+@import url(../blocks/table/__cell/_theme/table__cell_theme_dark.css);
 
 /* techniques */
 /* two-columns */
